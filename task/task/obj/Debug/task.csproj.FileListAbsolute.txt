@@ -1,0 +1,7 @@
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\bin\Debug\task.exe.config
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\bin\Debug\task.exe
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\bin\Debug\task.pdb
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\obj\Debug\task.csprojAssemblyReference.cache
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\obj\Debug\task.exe
+C:\Users\Code Academy\Desktop\Task01.07.2019\task\task\obj\Debug\task.pdb
